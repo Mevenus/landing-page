@@ -6,13 +6,13 @@ ios_app_id                                : 1234793120                          
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Mevenus                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Book Fast, Beauty Now
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,27 +35,27 @@ youtube_username                          : mevenus
 features                                  :
 
   - title                                 : Đặt lịch dễ dàng
-    description                           : Book 
+    description                           : Chỉ bằng một vài thao tác bạn có thể đặt lịch làm đẹp tại các chi nhánh của các trung tâm.
     fontawesome_icon_name                 : magic
     
   - title                                 : Đánh giá thông minh
-    description                           :
+    description                           : Dựa vào các đánh giá của các khách hàng đã dùng dịch vụ để đưa ra quyết định trước khi đặt lịch sử dụng dịch vụ.
     fontawesome_icon_name                 : magic
 
-  - title                                 : Quản lý lịch chăm sóc
-    description                           :
+  - title                                 : Quản lý lịch trực quan
+    description                           : Hiển thị và nhắc nhở cho các lịch làm đẹp sắp tới cho bạn.
     fontawesome_icon_name                 : magic
 
   - title                                 : Quản lý khách hàng
-    description                           :
+    description                           : Bạn là chủ cửa hàng, bạn muốn quản lý các khác hàng một cách hiệu quản. Mevenus sẽ đem lại điều này chỉ bằng một vài thao tác.
     fontawesome_icon_name                 : magic
     
   - title                                 : Tìm kiếm thương hiệu
-    description                           :
+    description                           : Hiển thị các thương hiệu và các chi nhánh trên bản đồ. Giúp bạn tiết kiệm thời gian đi tìm kiếm một cơ sở làm đẹp ưng ý.
     fontawesome_icon_name                 : magic
 
   - title                                 : Chia sẻ làm đẹp
-    description                           :
+    description                           : Là nơi lắng nghe và chia sẻ các kinh nghiệm làm đẹp. Giúp bạn không phải tìm kiếm trên các nguồn khác nhau.
     fontawesome_icon_name                 : magic
     
 # Theme Settings
@@ -67,7 +67,7 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : coral                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
