@@ -19,36 +19,44 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Sa Pham                              
-your_link                                 : https://sapham.net 
-your_city                                 : Ha Noi                        
-email_address                             : saphi070@gmail.com
-facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
-youtube_username                          :
+your_name                                 : Mevenus Team                     
+your_link                                 : https://mevenus.com
+your_city                                 : Ha Noi, Vietnam
+email_address                             : mevenus@gmail.com
+facebook_username                         : mevenus                                     
+instagram_username                        : mevenus
+twitter_username                          : mevenus
+github_username                           : mevenus
+youtube_username                          : mevenus
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Booking
-    description                           : 
+  - title                                 : Đặt lịch dễ dàng
+    description                           : Book 
     fontawesome_icon_name                 : magic
     
-  - title                                 : Review
+  - title                                 : Đánh giá thông minh
     description                           :
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : magic
 
-  - title                                 : Manage your customer
+  - title                                 : Quản lý lịch chăm sóc
     description                           :
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : magic
 
-  - title                                 : Branches
+  - title                                 : Quản lý khách hàng
     description                           :
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : magic
+    
+  - title                                 : Tìm kiếm thương hiệu
+    description                           :
+    fontawesome_icon_name                 : magic
+
+  - title                                 : Chia sẻ làm đẹp
+    description                           :
+    fontawesome_icon_name                 : magic
     
 # Theme Settings
 topbar_color                              : "#000000"
